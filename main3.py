@@ -35,9 +35,9 @@ def proses():
 # === INI GUI NYA IAA ===
 #Iping al gaib
 window = tk.Tk()
-window.title("CMI Coffee - Kasir")
+window.title("CMI COFFEE - Kasir")
 window.geometry("430x630")
-window.configure(bg="#f6f7fb")  # Warna latar lembut
+window.configure(bg="#f6f7fb")  #bg ini
 
 window.grid_columnconfigure(0, weight=1)
 window.grid_columnconfigure(1, weight=1)
